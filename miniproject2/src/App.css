@@ -1,0 +1,73 @@
+body {
+  padding: 0;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large;
+  background-color: #ccf9ff;
+
+  /* background-image: url("oldie.jpeg"); */
+  /* background-size: 100% auto; */
+  /* background-color: rgba(0, 0, 0, 0.5); */
+}
+
+.container {
+  text-align: center;
+  font-size: 200%;
+  align-content: center;
+  place-items: center;
+}
+.logo{
+  background-color: #ccf9ff;
+  top: 25%;
+  left:12%
+}
+
+.container2{
+  text-align: center;
+  font-size: 100%;
+  align-content: center;
+  place-items: center;
+  background: #ccf9ff;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container3{
+  text-align: center;
+  font-size: 100%;
+  align-content: center;
+  place-items: center;
+  background: #ccf9ff;
+
+
+}
+#position{
+  position: relative;
+  top: 50px;
+  right: 204px;
+}
+
+.login{
+  padding: 0;
+  margin: 0;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large;
+  align-content: center;
+  background: #ccf9ff;
+
+}
+.signup{
+  position:absolute;
+  left:30%;
+}
+
+
+
+
+
